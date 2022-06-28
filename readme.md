@@ -16,8 +16,9 @@ pip install requirements.txt
 ## Usage
 
 ```python
+You can find the notebook as damage.ipynb with a walkthrough the implementation.
 
-You can run the script using the Engine Health Monitoring data filename without whitespace withtin the name like so:
+You can also run the python script using the Engine Health Monitoring data filename without whitespace withtin the name like so:
 # returns a csv file containing the computed parameters
 python damage.py Scenario_Anonymised_v2.xlsx
 
